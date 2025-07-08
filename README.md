@@ -1,6 +1,6 @@
-![Simple VWAP Image strategy](https://github.com/user-attachments/assets/296b3460-df51-4a28-8ea4-90b2cc416589)
+[![Simple VWAP Image strategy](https://github.com/user-attachments/assets/296b3460-df51-4a28-8ea4-90b2cc416589)](https://buymeacoffee.com/freqtrade_france)
 
-# Simple VWAP v1 - Freqtrade Strategy
+# Simple VWAP v1 - Freqtrade Strategy by Titouannwtt for [Freqtrade France](https://buymeacoffee.com/freqtrade_france)
 
 ## Overview
 

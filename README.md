@@ -40,7 +40,7 @@ freqtrade trade --config freqtrade/live_configs/simple_vwap_v1.json
 
 For detailed explanations, optimization tips, and complete setup instructions, visit the full article on Freqtrade France:
 
-**[📖 Full strategy guide on Freqtrade France](https://buymeacoffee.com/freqtrade_france)**
+**[📖 Full strategy guide on Freqtrade France](https://buymeacoffee.com/freqtrade_france/simple-vwap-v1-la-stratgie-du-placement-constant)**
 
 ---
 

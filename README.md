@@ -1,4 +1,4 @@
-[![Simple VWAP Image strategy](https://github.com/user-attachments/assets/296b3460-df51-4a28-8ea4-90b2cc416589)]([https://buymeacoffee.com/freqtrade_france](https://buymeacoffee.com/freqtrade_france/simple-vwap-v1-la-stratgie-du-placement-constant))
+[![Simple VWAP Image strategy](https://github.com/user-attachments/assets/296b3460-df51-4a28-8ea4-90b2cc416589)](https://buymeacoffee.com/freqtrade_france/simple-vwap-v1-la-stratgie-du-placement-constant)
 
 # Simple VWAP v1 - Freqtrade Strategy by Titouannwtt for [Freqtrade France](https://buymeacoffee.com/freqtrade_france)
 
@@ -84,7 +84,7 @@ freqtrade trade --config freqtrade/live_configs/simple_vwap_v1.json
 
 Pour des explications détaillées, des conseils d'optimisation et les instructions complètes d'installation, consultez l'article complet sur Freqtrade France :
 
-**[📖 Guide complet de la stratégie sur Freqtrade France]([https://buymeacoffee.com/freqtrade_france](https://buymeacoffee.com/freqtrade_france/simple-vwap-v1-la-stratgie-du-placement-constant))**
+**[📖 Guide complet de la stratégie sur Freqtrade France](https://buymeacoffee.com/freqtrade_france/simple-vwap-v1-la-stratgie-du-placement-constant)**
 
 ---
 

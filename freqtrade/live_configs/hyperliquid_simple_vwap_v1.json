@@ -1,0 +1,38 @@
+{
+    "add_config_files": [
+        "_default_spot_usdc.json",
+        "_hyperliquid_freqtrade_access.json"
+    ],
+
+    "max_open_trades": 40,
+    "available_capital": 500,
+    "tradable_balance_ratio": 0.99,
+    "stake_amount": "unlimited",
+
+    "trading_mode": "futures",
+    "margin_mode": "isolated",
+    "stake_currency": "USDC",
+
+    "bot_name": "simple_vwap_v1_hyperliquid",
+    "strategy": "simple_vwap_v1",
+    "db_url": "sqlite:///database/simple_vwap_v1_hyperliquid.sqlite",
+
+    "api_server": {
+        "listen_port": 9907
+    },
+
+    "pairlists": [
+        {
+            "method": "VolumePairList",
+            "number_assets": 60,
+            "sort_key": "quoteVolume",
+            "min_value": 0,
+            "refresh_period": 86400,
+            "lookback_days": 7
+        }
+    ],
+    
+    "internals": {
+        "process_throttle_secs": 60
+    }
+}

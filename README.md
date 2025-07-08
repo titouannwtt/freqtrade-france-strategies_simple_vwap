@@ -1,3 +1,5 @@
+![Simple VWAP Image strategy](https://github.com/user-attachments/assets/296b3460-df51-4a28-8ea4-90b2cc416589)
+
 # Simple VWAP v1 - Freqtrade Strategy
 
 ## Overview
